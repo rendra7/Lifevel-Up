@@ -1,2 +1,17 @@
 # Lifevel-Up
-Project Software Engineering Semester 4 ( Build Application  'Lifevel Up' ) by Rendra Dwi Prasetyo - Binus University - Computer Science
+Binus University - Computer Science
+Project Software Engineering Semester 4 ( Build Application  'Lifevel Up' ) 
+by Rendra Dwi Prasetyo - 260219960 
+
+phone : +62 82148399048 
+email : rendra.prasetyo@binus.ac.id
+
+# How To use :
+click this [ ] for download the apk installation
+or
+Use the repository file and open using flutter (Vscode) & Andorid SDK
+
+# Youtube Link Video Demo aplication :
+
+
+# another project :
