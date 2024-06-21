@@ -3,7 +3,7 @@ Binus University - Computer Science
 
 Project Software Engineering Semester 4 ( Build Application : 'Lifevel Up' ) 
 
-by Rendra Dwi Prasetyo - 260219960 
+by Rendra Dwi Prasetyo 
 
 
 phone : +62 82148399048 
